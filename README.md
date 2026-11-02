@@ -1,7 +1,7 @@
 # Estadistica-Estadistica-descriptiva-e-inferencia
 
 _ES_:
-Estudio estadístico de las diferencias craneales entre dos pobalciones.
+Estudio estadístico de las diferencias craneales entre dos poblaciones.
 
 _EN_:
 Statistical study of cranial differences between two populations.
