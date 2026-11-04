@@ -1,4 +1,4 @@
-# Estadistica-descriptiva-e-inferencia
+![Banner](banner/banner_github.png)
 
 _ES_:
 Estudio estadístico de las diferencias craneales entre dos poblaciones.
